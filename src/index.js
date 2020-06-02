@@ -5,7 +5,6 @@ let body = document.body
 
 body.style.margin = 0
 body.style.display = "grid"
-body.style.gridTemplateColumns = 
 
 
 
